@@ -4,4 +4,4 @@ The name of files is creating by this template :
 To redacting files you need to use IDE or  $ nano command in terminal.
 To se the results of file use command $ php 001_welcome.php .
 
-Stundent: Artiom Botnari
+Student: Artiom Botnari
